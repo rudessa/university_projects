@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\artem\\OneDrive\\Desktop\\Exam_Polynom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB94299-2C9B-49F5-9AAD-B93EB2809E7C}|Exam_Polynom.vcxproj|C:\\Users\\artem\\OneDrive\\Desktop\\Exam_Polynom\\Exam_Polynom.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FBB94299-2C9B-49F5-9AAD-B93EB2809E7C}|Exam_Polynom.vcxproj|solutionrelative:Exam_Polynom.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB94299-2C9B-49F5-9AAD-B93EB2809E7C}|Exam_Polynom.vcxproj|C:\\Users\\artem\\OneDrive\\Desktop\\Exam_Polynom\\polynom\\ClassPolynom.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FBB94299-2C9B-49F5-9AAD-B93EB2809E7C}|Exam_Polynom.vcxproj|solutionrelative:polynom\\ClassPolynom.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassPolynom.h",
+              "DocumentMoniker": "C:\\Users\\artem\\OneDrive\\Desktop\\Exam_Polynom\\polynom\\ClassPolynom.h",
+              "RelativeDocumentMoniker": "polynom\\ClassPolynom.h",
+              "ToolTip": "C:\\Users\\artem\\OneDrive\\Desktop\\Exam_Polynom\\polynom\\ClassPolynom.h",
+              "RelativeToolTip": "polynom\\ClassPolynom.h",
+              "ViewState": "AQIAAHoBAAAAAAAAAAAAAAoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-29T04:50:39.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exam_Polynom.cpp",
+              "DocumentMoniker": "C:\\Users\\artem\\OneDrive\\Desktop\\Exam_Polynom\\Exam_Polynom.cpp",
+              "RelativeDocumentMoniker": "Exam_Polynom.cpp",
+              "ToolTip": "C:\\Users\\artem\\OneDrive\\Desktop\\Exam_Polynom\\Exam_Polynom.cpp",
+              "RelativeToolTip": "Exam_Polynom.cpp",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-29T04:50:39.086Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
